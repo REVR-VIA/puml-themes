@@ -27,7 +27,6 @@
 !endif
 ''
 !$PUML_BGCOLOR = "#cc0000"
-!$PUML_NAMESPACE_BGCOLOR = "#cc0000"
 skinparam BackgroundColor $PUML_BGCOLOR
 skinparam useBetaStyle false
 ''
@@ -466,7 +465,7 @@ skinparam rectangle {
 
 !startsub package
 skinparam package {
-	BackgroundColor $PUML_NAMESPACE_BGCOLOR
+	BackgroundColor $PUML_BGCOLOR
   	BorderColor $SECONDARY_TEXT
 	FontColor $SECONDARY_TEXT
 	BorderThickness 2
