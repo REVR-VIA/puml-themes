@@ -473,15 +473,6 @@ skinparam package {
 }
 !endsub
 
-!startsub namespace
-skinparam namespace {
-	BackgroundColor $PUML_NAMESPACE_BGCOLOR
-  	BorderColor $SECONDARY_TEXT
-	FontColor $SECONDARY_TEXT
-	BorderThickness 2
-}
-!namespace
-
 !startsub folder
 skinparam folder {
 	BackgroundColor $SECONDARY_BG
