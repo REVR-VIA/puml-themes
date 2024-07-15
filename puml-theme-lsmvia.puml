@@ -42,7 +42,7 @@ skinparam useBetaStyle false
 !$WHITE      = "#FFF"
 !$GRAY_LIGHT = "#222"
 !$GRAY       = "#868e96"
-!$PRIMARY    = "#EC7211"
+!$PRIMARY    = "#2D6699"
 !$WARNING    = "#EC7211"
 !$LIGHT      = "#abb6c2"
 !$DARK       = "#4E5D6C"
